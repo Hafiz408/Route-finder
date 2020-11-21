@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1605455200 source:e:\packages\datastructures package\route finder\main.cpp
+	<stdio.h>
+	<limits.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+
+1605944021 source:e:\packages\route finder\main.cpp
+	<stdio.h>
+	<limits.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
